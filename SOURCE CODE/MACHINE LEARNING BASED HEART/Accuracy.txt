@@ -1,0 +1,12 @@
+Heart Disease prediction
+
+Algorithm / Model Used:
+
+Decision Tree Classifier - Accuracy score: 0.9610
+
+Support Vector Machine - Accuracy score: 0.8279
+
+Naive Bayes - Accuracy score: 0.8376
+
+
+

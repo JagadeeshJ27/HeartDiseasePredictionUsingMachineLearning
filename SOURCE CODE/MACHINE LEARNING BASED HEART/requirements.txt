@@ -1,0 +1,23 @@
+pip install pandas
+
+pip install numpy 
+
+pip install scikit-learn==0.23.1
+
+pip install flask
+
+pip install matplotlib
+
+pip install graphviz
+
+conda install graphviz
+
+pip install pydotplus
+
+conda install -c conda-forge pydotplus
+
+pip install six
+
+pip install mlrose
+
+python 3.8
